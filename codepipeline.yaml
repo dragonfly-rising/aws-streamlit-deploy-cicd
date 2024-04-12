@@ -55,7 +55,7 @@ Parameters:
   GitURL:
     Type: String
     Description: Initial repository for basic Hello World application
-    Default: https://github.com/aws-samples/aws-streamlit-deploy-cicd.git
+    Default: https://github.com/dragonfly-rising/aws-streamlit-deploy-cicd.git
 
   EnvironmentName:
     Description: Unique name to distinguish different web application in the same AWS account (min length 1 and max length 4)
